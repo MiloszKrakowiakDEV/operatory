@@ -1,2 +1,4 @@
-package pl.gornik.vehicle;public class Car {
+package pl.gornik.vehicle;
+
+public class Car {
 }
